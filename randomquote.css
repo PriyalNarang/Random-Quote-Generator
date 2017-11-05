@@ -1,0 +1,36 @@
+h1 {
+  margin-top:18px;
+  color: #2E4053;
+
+}
+
+.quote {
+  box-shadow: 1px 1px 5px #444;
+  border-radius:3px;
+  margin:8% auto auto auto;
+  width:450px;
+  padding:40px 50px;
+  display:table;
+  background-color:#C4F5F6   ;
+  font-family: Raleway;
+  font-weight: bold;
+  color: purple;
+}
+
+
+.fa-twitter {
+  color: white;
+}
+
+.container{
+  text-align:center;
+  margin:0 auto;
+}
+
+body{
+  background: #00467F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A5CC82, #00467F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A5CC82, #00467F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
